@@ -10,6 +10,7 @@
 </head>
 <body>
 	<p>Você está logado<p>
+	<a href="cadastrar.php">Atualizar dados cadastrais</a>	
 	<a href="sair.php">Sair</a>
 </body>
 </html>
